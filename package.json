@@ -1,0 +1,29 @@
+{
+  "name": "nodemailerSendEmails",
+  "version": "1.0.0",
+  "description": "Create a simple Node.js and Express app and implement the Nodemailer module to add a contact form.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belchenkov/NodemailerSendEmails-.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Nodemailer"
+  ],
+  "author": "AB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Belchenkov/NodemailerSendEmails-/issues"
+  },
+  "homepage": "https://github.com/Belchenkov/NodemailerSendEmails-#readme",
+  "dependencies": {
+    "nodemailer": "^4.1.0",
+    "express": "*",
+    "body-parser": "*",
+    "express-handlebars": "*"
+  }
+}
